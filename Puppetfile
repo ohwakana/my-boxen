@@ -75,6 +75,7 @@ github "heroku",         "2.0.0"
 github "mysql",          "1.1.0"
 github "postgresql",     "2.0.0" # via homebrew
 github "imagemagick",    "1.2.1" # via homebrew
+github "mongodb",        "1.0.0"
 
 # local application for develop
 github "sequel_pro",     "1.0.0"

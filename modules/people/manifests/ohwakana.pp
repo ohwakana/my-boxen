@@ -49,6 +49,7 @@ class people::ohwakana {
   include heroku
   include phantomjs
   include imagemagick
+  include mongodb
 
   # local application for develop
   include sequel_pro
