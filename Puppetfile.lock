@@ -94,6 +94,11 @@ GITHUBTARBALL
     libtool (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-mongodb
+  specs:
+    mongodb (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-mysql
   specs:
     mysql (1.1.0)
@@ -219,6 +224,7 @@ DEPENDENCIES
   java (= 1.2.0)
   libpng (= 1.0.0)
   libtool (= 1.0.0)
+  mongodb (= 1.0.0)
   mysql (= 1.1.0)
   nginx (= 1.4.2)
   nodejs (= 3.3.0)
