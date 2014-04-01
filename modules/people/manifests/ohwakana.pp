@@ -60,6 +60,8 @@ class people::ohwakana {
   }
   include firefox
   include chrome
+  include vagrant
+  include virtualbox
 
   # local application for utility
   include dropbox

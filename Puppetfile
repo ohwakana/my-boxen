@@ -84,6 +84,8 @@ github "iterm2",         "1.0.4"
 github "sublime_text_2", "1.1.2"
 github "chrome",         "1.1.0"
 github "firefox",        "1.1.7"
+github "vagrant",        "3.0.7"
+github "virtualbox",     "1.0.11"
 
 # local application for utility
 github "dropbox",        "1.2.0"
