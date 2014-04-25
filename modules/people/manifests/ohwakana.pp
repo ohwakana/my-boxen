@@ -42,7 +42,11 @@ class people::ohwakana {
   # lib
   include python
   include java
-#  include php::5_4
+  include php::5_4_11
+  include php::composer
+  class { 'php::global':
+     version => '5.4.11'
+  }
   include mysql
   include wget
   include zsh
